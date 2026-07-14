@@ -63,6 +63,10 @@ main h1 {
     color: rgb(129, 141, 179);
 }
 
+main #album #photo img {
+    width: 400px;
+}
+
 footer {
     background-color: rgb(129, 141, 179);
     height: 40px;
